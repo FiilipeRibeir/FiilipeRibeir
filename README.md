@@ -1,7 +1,7 @@
 ## Olá MUNDO! Sou o Filipe Ribeiro 
 
 - 🌱 Estudando Flutter e Dart
-- 📫 Fale comigo no email: Filipecaldas3999@gmail.com
+- 📫 Fale comigo no email: nuedevmobile@gmail.com
 
 ##
 
